@@ -55,8 +55,8 @@ into the {body} of the default.hbs template -->
             <!-- Email subscribe form at the bottom of the page -->
             {% if site.subscribers %}
                 <section class="subscribe-form">
-                    <h3 class="subscribe-form-title">Subscribe to {{ site.title }}</h3>
-                    <p>Get the latest posts delivered right to your inbox</p>
+                    <h3 class="subscribe-form-title">Suscribete a {{ site.title }}</h3>
+                    <p>Obten lo mas nuevo entregado a tu correo</p>
                     {% include subscribe-form.html placeholder="youremail@example.com" %}
                 </section>
             {% endif %}
@@ -75,12 +75,12 @@ into the {body} of the default.hbs template -->
                                 {% if author[1].bio %}
                                     <p>{{ author[1].bio }}</p>
                                 {% else %}
-                                    <p>Read <a href="{{ site.baseurl }}author/{{ page.author }}">more posts</a> by this author.</p>
+                                    <p>Leer <a href="{{ site.baseurl }}author/{{ page.author }}">más posts</a> de este autor.</p>
                                 {% endif %}
                             </section>
                         </section>
                         <div class="post-full-footer-right">
-                            <a class="author-card-button" href="{{ site.baseurl }}author/{{ page.author }}">Read More</a>
+                            <a class="author-card-button" href="{{ site.baseurl }}author/{{ page.author }}">Leer mas</a>
                         </div>
                     {% endif %}
                 {% endfor %}

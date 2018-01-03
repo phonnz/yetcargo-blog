@@ -11,7 +11,7 @@ baseurl: /
 title: YetCargo
 description: The professional publishing platform
 cover: assets/images/blog-cover.jpg
-logo: assets/images/blog-icon.svg
+logo: assets/images/yetcargo.png
 logo_dark: assets/images/favicon.ico
 favicon: assets/images/favicon.ico
 production_url: https://blog.yetcargo.com
