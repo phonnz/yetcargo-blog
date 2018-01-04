@@ -9,7 +9,7 @@ baseurl: ./
 
 # Website info
 title: YetCargo
-description: The professional publishing platform
+description: Tu transporte de carga en un click
 cover: assets/images/blog-cover.jpg
 logo: assets/images/yetcargo.png
 logo_dark: assets/images/favicon.ico
@@ -26,11 +26,11 @@ twitter: yetcargo # replace by your username
 facebook: yetcargomx # replace by your username
 
 # Disqus
-disqus: False
+disqus: True
 disqus_shortname: yetcargo # replace with your disqus username
 
 # Google Analytics
-google_analytics: UA-69281367-1 # replace with your GA tracking identifier
+google_analytics: UA-83570219-2 # replace with your GA tracking identifier
 
 # Permalinks
 permalink: /:title
