@@ -14,16 +14,20 @@ collections:
     sort: "date:desc"
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
-      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
-      - {label: "Current", name: "current", widget: "hidden", default: "post"}
-      - {label: "Navigation", name: "navigation", widget: "hidden", default: "True"}
-      - {label: "Class", name: "class", widget: "hidden", default: "post-template"}
-      - {label: "Subclass", name: "subclass", widget: "hidden", default: "post"}
-      - {label: "Author", name: "author", widget: "list", default: ["yetcargo"] }
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "TAG", name: "tags", widget: "string"}
-      - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Cover image", name: "cover", widget: "image"}
-      - {label: "Body", name: "body", widget: "markdown"}
+      - { label: "Layout", name: "layout", widget: "hidden", default: "post" }
+      - { label: "Current", name: "current", widget: "hidden", default: "post" }
+      - { label: "Navigation", name: "navigation", widget: "hidden", default: "True" }
+      - { label: "Class", name: "class", widget: "hidden", default: "post-template" }
+      - { label: "Subclass", name: "subclass", widget: "hidden", default: "post" }
+      - label: "Author"
+        name: "author"
+        widget: "select"
+        options:
+          - { label: "YetCargo", value: "yetcargo" }
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "TAG", name: "tags", widget: "string" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Cover image", name: "cover", widget: "image" }
+      - { label: "Body", name: "body", widget: "markdown" }
     meta: # Meta data fields. Just like fields, but without any preview element
-      - {label: "Publish Date", name: "date", widget: "datetime", format: "YYYY-MM-DD hh:mm:ss"}
+      - { label: "Publish Date", name: "date", widget: "datetime", format: "YYYY-MM-DD hh:mm:ss" }

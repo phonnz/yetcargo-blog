@@ -4,8 +4,7 @@ current: post
 navigation: 'True'
 class: post-template
 subclass: post
-author:
-  - yetcargo
+author: yetcargo
 title: Como subir tu factura a YetCargo
 tags: tutoriales
 date: 2018-01-05T21:14:06.320Z
