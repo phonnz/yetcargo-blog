@@ -10,7 +10,7 @@ navigation: True
 into the {body} of the default.hbs template -->
 
 <!-- The big featured header, it uses blog cover image as a BG if available -->
-<header class="site-header outer {% if page.cover or site.cover %}" style="background: linear-gradient(rgba(28, 33, 43, 0.5), rgba(28, 33, 43, 0.5)), url({{ site.baseurl }}{% if page.cover %}{{ page.cover }}{% elsif site.cover %}{{ site.cover }}{% endif %}) {% else %}no-cover{% endif %}">
+<header class="site-header outer {% if page.cover or site.cover %}" style="overflow: hidden; background-position: center !important; background-repeat: no-repeat !important; background-size: cover !important; background: linear-gradient(rgba(28, 33, 43, 0.5), rgba(28, 33, 43, 0.5)), url({{ site.baseurl }}{% if page.cover %}{{ page.cover }}{% elsif site.cover %}{{ site.cover }}{% endif %}) {% else %}no-cover{% endif %};">
     <div class="inner">
         <div class="site-header-content">
             <h1 class="site-title">
