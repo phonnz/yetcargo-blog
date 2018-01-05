@@ -1,10 +1,10 @@
 yetcargo:
   username: yetcargo
   name: YetCargo
-  url_full: False
-  url: Fasle
+  url_full: https://yetcargo.com/
+  url: https://yetcargo.com/
   bio: Transporte de mercancía
   picture: assets/images/yetcargo.png
   facebook: yetcargomx
   twitter: yetcargo
-  cover: False
+  cover: assets/images/blog-cover.jpg
