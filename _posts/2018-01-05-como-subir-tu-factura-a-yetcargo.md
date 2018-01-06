@@ -10,7 +10,7 @@ tags: tutoriales
 date: 2018-01-05T21:14:06.320Z
 cover: /assets/images/writing.jpg
 ---
-**IMPORTANTE:** Es necesario que ya hayas entregado la **_evidencia física_** para poder hacer esto, de lo contrario no tendrás acceso a tu **código** para subir tu factura.
+**IMPORTANTE:** Es necesario que ya hayas entregado la __***evidencia física***__ para poder hacer esto, de lo contrario no tendrás acceso a tu **código** para subir tu factura.
 
 Sigue estos pasos:
 
