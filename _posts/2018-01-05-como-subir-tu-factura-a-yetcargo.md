@@ -12,9 +12,9 @@ cover: /assets/images/writing.jpg
 ---
 **IMPORTANTE:** Es necesario que ya hayas entregado la evidencia **fisica** para poder hacer esto, de lo contrario no tendrás acceso a tu **código** para subir tu factura
 
-Entra a la plataforma [YetCargo](https://yetcargo.com/login) y ve a la sección de "Pagos pendientes"
+Entra a la plataforma [YetCargo](https://yetcargo.com/login) y ve a la sección de **Pagos pendientes**
 
-!\[Menu](/assets/images/captura de pantalla 2018-01-05 a la(s) 3.52.01 p.m..png)
+![](/assets/images/captura de pantalla 2018-01-05 a la(s) 3.52.01 p.m..png)
 
 y veras una pantalla así que te mostrará los servicios pendientes por subir factura
 
@@ -22,19 +22,19 @@ y veras una pantalla así que te mostrará los servicios pendientes por subir fa
 
 selecciona el servicio que deseas facturar presionando en su botón de "Detalles" correspondiente y veras este recuadro en la pantalla
 
-!\[Poner codigo](/assets/images/captura de pantalla 2018-01-05 a la(s) 3.51.15 p.m..png)
+![](/assets/images/captura de pantalla 2018-01-05 a la(s) 3.51.15 p.m..png)
 
 deberas ingresar el **código** que se te envío por correo y presiona donde dice **Valida** y este cambiara a este aspecto
 
-!\[Donde subir factura](/assets/images/captura de pantalla 2018-01-05 a la(s) 4.03.10 p.m..png)
+![](/assets/images/captura de pantalla 2018-01-05 a la(s) 4.03.10 p.m..png)
 
 Presiona en este botón
 
-!\[Boton](/assets/images/captura de pantalla 2018-01-05 a la(s) 4.07.36 p.m..png)
+![](/assets/images/captura de pantalla 2018-01-05 a la(s) 4.07.36 p.m..png)
 
 y te abrirá una nueva ventana donde deberas buscar tu factura y seleccionarla y presionar donde dice **Abrir**
 
-!\[](/assets/images/captura de pantalla 2018-01-05 a la(s) 4.12.58 p.m..png)
+![](/assets/images/captura de pantalla 2018-01-05 a la(s) 4.12.58 p.m..png)
 
 Agrega los comentarios, en caso de que tengas algunos y presiona en el botón **Subir información**
 
