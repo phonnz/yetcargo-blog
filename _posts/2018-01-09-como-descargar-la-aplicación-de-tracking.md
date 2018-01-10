@@ -8,11 +8,11 @@ author: yetcargo
 title: Como descargar la Aplicación de tracking
 tags: tutoriales
 date: 2018-01-09T19:01:55.585Z
-cover: /assets/images/advanced.jpg
+cover: /assets/images/app_blog.jpg
 ---
 **Como descargar la Aplicación de tracking**
 
-**IMPORTANTE: **La aplicación de tracking solo esta disponible para celulares con sistema **_Android_** (todos aquellos que **no son iPhone** de cualquier tipo)
+**IMPORTANTE:** La aplicación de tracking solo esta disponible para celulares con sistema **_Android_** (todos aquellos que **no son iPhone** de cualquier tipo)
 
 Descargar la aplicación es simple, hay 2 formas
 
