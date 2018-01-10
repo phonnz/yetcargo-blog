@@ -9,8 +9,8 @@ baseurl: https://blog.yetcargo.com/
 
 # Website info
 title: YetCargo
-description: Tu transporte de carga en un click
-cover: assets/images/blog-cover.jpg
+description: False
+cover: False
 logo: assets/images/yetcargo.png
 logo_dark: assets/images/favicon.ico
 favicon: assets/images/favicon.ico
