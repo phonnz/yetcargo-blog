@@ -4,7 +4,7 @@ yetcargo:
   url_full: https://yetcargo.com/
   url: https://yetcargo.com/
   bio: Transporte de mercancía
-  picture: assets/images/yetcargo.png
+  picture: assets/images/logo_white.svg
   facebook: yetcargomx
   twitter: yetcargo
-  cover: assets/images/blog-cover.jpg
+  cover: False
