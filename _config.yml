@@ -9,8 +9,8 @@ baseurl: https://blog.yetcargo.com/
 
 # Website info
 title: YetCargo
-description: False
-cover: False
+description:
+cover: assets/images/black.jpg
 logo: assets/images/yetcargo.png
 logo_dark: assets/images/favicon.ico
 favicon: assets/images/favicon.ico
