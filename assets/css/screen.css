@@ -306,7 +306,7 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
 
 .social-link svg {
     height: 1.8rem;
-    fill: #ff9100;
+    fill: #fff;
 }
 
 .social-link-fb svg {
@@ -318,7 +318,7 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
 }
 
 .social-link-wb svg path {
-    stroke: #ff9100;
+    stroke: #fff;
 }
 
 .social-link-rss svg {
