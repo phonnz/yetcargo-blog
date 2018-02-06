@@ -5,7 +5,7 @@ navigation: 'True'
 class: post-template
 subclass: post
 author: yetcargo
-title: Como descargar la Aplicación de tracking
+title: Cómo descargar la Aplicación de tracking
 tags: tutoriales
 date: 2018-01-09T19:01:55.585Z
 cover: /assets/images/app_blog.jpg
