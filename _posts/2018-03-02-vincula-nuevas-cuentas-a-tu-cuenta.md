@@ -12,14 +12,16 @@ cover: /assets/images/images.jpeg
 ---
 1._ Ingresa a tu cuenta y en la parte superior selecciona la opción de configuración.
 
+![](/assets/images/1.png)
 
+2._ En la sección de _**Cuentas vinculadas **haz click en el botón de **Más**.
 
-2._ En la sección de** _Cuentas vinculadas_** haz click en el botón de _**Más.**_
-
-
+![](/assets/images/2.png)
 
 3._ Agrega la nueva cuenta de correo y una contraseña.
 
+![](/assets/images/3.png)
 
+4._ Por último da click en la botón  _**AGREGAR**_ _y espera un correo a tu cuenta.
 
-4._ Por último da click en la botón  **_AGREGAR_** y espera un correo a tu cuenta.
+![](/assets/images/4.png)
