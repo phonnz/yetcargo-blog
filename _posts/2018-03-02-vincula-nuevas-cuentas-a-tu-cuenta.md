@@ -14,7 +14,7 @@ cover: /assets/images/captura de pantalla 2018-03-02 a la(s) 15.28.55.png
 
 ![null](/assets/images/1.png)
 
-2._En la sección de **Cuentas vinculadas** haz click en el botón de **Más**.
+2._ En la sección de _**Cuentas vinculadas **haz click en el botón de **Más**.
 
 ![null](/assets/images/2.png)
 
@@ -22,6 +22,6 @@ cover: /assets/images/captura de pantalla 2018-03-02 a la(s) 15.28.55.png
 
 ![null](/assets/images/3.png)
 
-4._ Por último da click en la botón  **AGREGAR** y espera un correo a tu cuenta.
+4._ _Por último da click en la botón _ _**AGREGAR.**_ 
 
 ![null](/assets/images/4.png)
