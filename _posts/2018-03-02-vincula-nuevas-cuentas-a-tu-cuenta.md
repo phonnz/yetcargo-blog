@@ -10,6 +10,8 @@ tags: Tutorial
 date: 2018-03-02T19:33:14.297Z
 cover: /assets/images/captura de pantalla 2018-03-02 a la(s) 15.28.55.png
 ---
+Sigue los pasos para agregar nuevas cuentas a tu correo.
+
 1._ Ingresa a tu cuenta y en la parte superior selecciona la opción de configuración.
 
 ![null](/assets/images/1.png)
