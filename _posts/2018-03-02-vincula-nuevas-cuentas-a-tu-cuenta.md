@@ -22,6 +22,6 @@ cover: /assets/images/captura de pantalla 2018-03-02 a la(s) 15.28.55.png
 
 ![null](/assets/images/3.png)
 
-4._ _Por último da click en la botón _ _**AGREGAR.**_ 
+4._ _Por último da click en la botón _ **_AGREGAR._** 
 
 ![null](/assets/images/4.png)
