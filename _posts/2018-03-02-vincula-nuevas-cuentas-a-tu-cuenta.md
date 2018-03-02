@@ -22,6 +22,6 @@ cover: /assets/images/images.jpeg
 
 ![](/assets/images/3.png)
 
-4._ Por último da click en la botón  _**AGREGAR**_ _y espera un correo a tu cuenta.
+4._ _Por último da click en la botón _ _**AGREGAR**_ _y espera un correo a tu cuenta.
 
 ![](/assets/images/4.png)
