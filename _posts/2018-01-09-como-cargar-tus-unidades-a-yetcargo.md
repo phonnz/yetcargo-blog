@@ -8,7 +8,7 @@ author: yetcargo
 title: Cómo cargar tus unidades a YETCARGO
 tags: tutoriales
 date: 2018-01-09T17:44:24.330Z
-cover: /assets/images/subirveh_blog.jpg
+cover: /assets/images/c_cargarunidades.jpg
 ---
 **Cómo cargar tus unidades a YETCARGO**
 
