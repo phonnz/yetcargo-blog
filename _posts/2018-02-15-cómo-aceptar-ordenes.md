@@ -8,7 +8,7 @@ author: yetcargo
 title: Cómo aceptar ordenes
 tags: Cómo aceptar ordenes
 date: 2018-02-16T00:53:38.889Z
-cover: /assets/images/aceptar.jpg
+cover: /assets/images/c_aceptar_ordenes.jpg
 ---
 A continuación te explicamos cómo puedes aceptar una carga.
 
