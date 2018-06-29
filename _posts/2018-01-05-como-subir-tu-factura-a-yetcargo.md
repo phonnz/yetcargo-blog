@@ -8,7 +8,7 @@ author: yetcargo
 title: Cómo subir tu factura a YETCARGO
 tags: tutoriales
 date: 2018-01-05T21:14:06.320Z
-cover: /assets/images/obdl960.jpg
+cover: /assets/images/c_subir_factura.jpg
 ---
 **IMPORTANTE:** Si no sabes como acceder a la plataforma YETCARGO, debiste haber recibido un correo **(verifica tu correo no deseado)** con tus datos de acceso **(email y contraseña)** o haberte [registrado como socio transportista](https://yetcargo.com/registro_socio) y haber completado tu documentación, tendrás tu correo y contraseña para acceder, ahora solo tienes que entrar a [nuestra pagina](https://yetcargo.com/) o [buscarnos en Google](https://www.google.com.mx/search?q=yetcargo) e iniciar sesión.
 
