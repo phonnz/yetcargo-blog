@@ -6,7 +6,7 @@ class: post-template
 subclass: post
 author: yetcargo
 title: Cómo descargar la aplicación de tracking
-tags: tutoriales
+tags: Tutorial
 date: 2018-01-09T19:01:55.585Z
 cover: /assets/images/app_blog.jpg
 ---
