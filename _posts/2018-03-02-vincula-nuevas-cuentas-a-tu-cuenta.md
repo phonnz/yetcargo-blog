@@ -8,7 +8,7 @@ author: yetcargo
 title: 'Vincula nuevas cuentas a la plataforma '
 tags: Tutorial
 date: 2018-03-02T19:33:14.297Z
-cover: /assets/images/vincular-cuentas_mesa-de-trabajo-1.jpg
+cover: /assets/images/vinculación.jpg
 ---
 1._ Ingresa a tu cuenta y en la parte superior selecciona la opción de configuración.
 
