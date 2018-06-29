@@ -6,7 +6,7 @@ class: post-template
 subclass: post
 author: yetcargo
 title: Cómo subir tu factura a YETCARGO
-tags: tutoriales
+tags: Tutorial
 date: 2018-01-05T21:14:06.320Z
 cover: /assets/images/c_subir_factura.jpg
 ---
