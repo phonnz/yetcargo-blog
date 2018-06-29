@@ -6,7 +6,7 @@ class: post-template
 subclass: post
 author: yetcargo
 title: Cómo aceptar ordenes
-tags: Cómo aceptar ordenes
+tags: Tutorial
 date: 2018-02-16T00:53:38.889Z
 cover: /assets/images/c_aceptar_ordenes.jpg
 ---
