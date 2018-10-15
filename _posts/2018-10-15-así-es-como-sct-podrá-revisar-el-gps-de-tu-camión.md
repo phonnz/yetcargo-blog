@@ -6,7 +6,7 @@ class: post-template
 subclass: post
 author: yetcargo
 title: Así es como SCT podrá revisar el GPS de tu camión
-tags: 'GPS, CONAMER, SCT'
+tags: 'Transporte Mx '
 date: '2018-10-15T13:26:58-05:00'
 cover: /assets/images/trailer_blog.jpg
 ---
