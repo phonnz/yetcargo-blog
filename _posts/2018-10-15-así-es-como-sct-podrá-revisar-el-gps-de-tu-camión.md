@@ -16,7 +16,7 @@ Esto da paso a recibir y contestar los comentarios sobre los lineamientos propue
 
 De acuerdo con la DGAF, oficina dependiente de la Secretaría de Comunicaciones y Transportes (SCT), resulta relevante que la dependencia verifique las rutas utilizadas por las configuraciones doblemente articuladas y la velocidad en que operan, incluso, cuando los vehículos se presenten en las instalaciones de las Unidades de Verificación para su revisión físico-mecánica y de emisión de contaminantes.
 
-Por lo anterior, el GPS deberá cumplir:
+**Por lo anterior, el GPS deberá cumplir:**
 
 • Contar con datos de telemetría que permitan el respaldo de la información, y ser capaz de:
 
@@ -56,7 +56,7 @@ Además, permitir la verificación físicamente del equipo GPS, en caso de equip
 
 La autoridad podrá verificar las rutas utilizadas por las configuraciones doblemente articuladas y la velocidad en que operan.
 
-Lo que queda prohibido
+**Lo que queda prohibido**
 
 Manipular o aplicar materiales de cualquier naturaleza al equipo, sus elementos de sujeción e instalación física y de fluido eléctrico que impidan o distorsionen en forma transitoria o permanente la recepción y transmisión de la señal.
 
@@ -64,7 +64,7 @@ Retirar el equipo del vehículo donde fue instalado, sin que la empresa cuente c
 
 Desconectar, dañar, interrumpir o quitar la fuente de alimentación eléctrica y pila de respaldo, o realizar cualquier otro acto que deje inoperativo el equipo e impida la transmisión de la señal, salvo para efectos de reparacion, mantenimiento del vehículo o interrupción por no operación.
 
-Su vigilancia
+**Su vigilancia**
 
 El anteproyecto indica que la SCT y la Policía Federal podrán:
 
@@ -86,4 +86,4 @@ Durante las labores de verificación e inspección, la Secretaría y la Policía
 
 La violación o incumplimiento de estas disposiciones se sancionarán de acuerdo con lo establecido en la Ley de Caminos, Puentes y Autotransporte Federal y el Reglamento sobre Peso, Dimensiones y Capacidad de los Vehículos de Autotransporte que Transitan en los Caminos y Puentes de Jurisdicción Federal.
 
-Información de: Transporte Mx. / TYT
+Información de: [Transporte Mx](http://www.transporte.mx/asi-es-como-la-sct-podra-revisar-el-gps-de-tu-camion/). / TYT
