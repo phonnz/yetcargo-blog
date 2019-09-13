@@ -5,7 +5,7 @@ paginate: 100 # it will paginate after this number
 language: 'es'
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: https://bloge.yetcargo.com/
+baseurl: https://blog.yetcargo.com/
 
 # Website info
 title: YetCargo
@@ -14,8 +14,8 @@ cover: assets/images/black.jpg
 logo: assets/images/yetcargo.png
 logo_dark: assets/images/favicon.ico
 favicon: assets/images/favicon.ico
-production_url: https://bloge.yetcargo.com
-source_url: https://bloge.yetcargo.com
+production_url: https://blog.yetcargo.com
+source_url: https://blog.yetcargo.com
 
 # Social info
 navigation: True # show the navbar links
@@ -72,8 +72,8 @@ username: yetcargo
 repo: blog
 branch: master
 relative_source: ../
-production_url: https://bloge.yetcargo.com
-source_url: https://bloge.yetcargo.com
+production_url: https://blog.yetcargo.com
+source_url: https://blog.yetcargo.com
 
 exclude:
   - README.md
