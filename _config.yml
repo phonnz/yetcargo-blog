@@ -71,7 +71,6 @@ lsi: False
 username: yetcargo
 repo: blog
 branch: master
-relative_source: ../
 production_url: https://blog.yetcargo.com
 source_url: https://blog.yetcargo.com
 
