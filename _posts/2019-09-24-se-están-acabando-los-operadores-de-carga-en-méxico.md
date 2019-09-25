@@ -11,9 +11,9 @@ date: '2019-09-23T17:36:20-05:00'
 cover: /assets/images/Yetcargo_transportes.png
 ---
 ## Cada vez hay menos transportistas, una realidad que pocos ven
-## Ante el reciente estudio que dio a conocer la Organización Mundial del
+Ante el reciente estudio que dio a conocer la Organización Mundial del
 Transporte Terrestre (IRU) cada vez hay menos operadores de unidades de
-carga que cumplan con los requisitos que las mismas empresas transportistas
+carga que cumplan con los requisitos que las mismas [empresas](https://www.yetcargo.com/) [transportistas](https://www.yetcargo.com/)
 prometen a sus clientes.
 La disminución de choferes es un fenómeno que ha impactado al servicio de
 transporte a nivel global, donde uno los principales factores (además de los
@@ -24,8 +24,7 @@ espera que en la próxima década se retiren el 40% de ellos. Por esta razón, l
 Cámara Nacional de Autotransporte de Carga (CANACAR) y la Secretaría de
 Desarrollo Económico del Estado, apuestan por la creación de “Centros de
 Capacitación para Operadores”.
-## Es un buen inicio, para un largo viaje: “Centros de Capacitación
-## para Operadores”
+## Es un buen inicio, para un largo viaje: “Centros de Capacitación para Operadores”
 Como lo comentó Alejandro Salas Martínez (vicepresidente de CANACAR y
 consejero de seguridad en el CEE), la búsqueda y formación de talento de
 nuevos profesionales del volante, es un tema prioritario para la logística y
