@@ -32,7 +32,7 @@ Muchos [proveedores de transporte](https://www.yetcargo.com/) con las que trabaj
 Te recomendamos tener un pool de proveedores de transporte que puedan responder en caso de emergencia y que cumplan con todo lo que tu mercancía necesita. Negocia las tarifas antes de que comience la temporada para que el costo no represente un mayor incremento en tu operación. Recuerda que no hay que poner todas las manzanas en una
 canasta.
 
-[!["Resuelve tu logística"](/assets/images/Arte_02.jpg)](https://blog.yetcargo.com/)
+[!["Resuelve tu logística"](/assets/images/Arte_02.jpg)](https://yetcargo.com/empresas)
 
 ## Prevención y Monitoreo
 
