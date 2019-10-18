@@ -7,7 +7,7 @@ subclass: post
 author: yetcargo
 title: EL RETO DE LA LOGÍSTICA Y EL TRANSPORTE DE CARGA EN MÉXICO
 tags: Tutorial
-date: 2019-10-05T21:14:06.320Z
+date: 2019-10-16T21:14:06.320Z
 cover: /assets/images/linea_de_transporte.jpg
 ---
 ## El transporte de carga es un pilar que puede mejorar o empeorar la producción y distribución de las empresas.
