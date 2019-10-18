@@ -10,7 +10,6 @@ tags: Tutorial
 date: 2019-10-05T21:14:06.320Z
 cover: /assets/images/yetcargo_logistica.png
 ---
-## 
 Cada año, las soluciones tecnológicas van tomando más relevancia en las áreas de logística y distribución de las empresas. Sus nuevos métodos de vinculación, simplifican los procesos de contratación de transporte y agilizan su cadena de suministro.
 
 El [transporte de carga](https://www.yetcargo.com) es una pieza clave en la economía mexicana, ya que cada producto que tenemos en nuestro hogar, ha llegado gracias al autotransporte y a un esfuerzo titánico de los encargados de logística y distribución hacen para lograr colocar todos sus productos.
