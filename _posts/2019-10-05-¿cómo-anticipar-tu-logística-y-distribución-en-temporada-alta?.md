@@ -5,7 +5,7 @@ navigation: 'True'
 class: post-template
 subclass: post
 author: yetcargo
-title: ¿CÓMO SER EL REY DE LOGÍSTICA Y DISTRIBUCIÓN DURANTE EL BUEN FIN?
+title: ¿CÓMO ANTICIPAR TU LOGÍSTICA Y DISTRIBUCIÓN EN TEMPORADA ALTA?
 tags: Tutorial
 date: 2019-10-05T21:14:06.320Z
 cover: /assets/images/portada_rey_de_logistica.jpg
