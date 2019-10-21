@@ -6,7 +6,7 @@ class: post-template
 subclass: post
 author: yetcargo
 title: YETCARGO LA PLATAFORMA QUE ESTÁ CAMBIANDO EL TRANSPORTE DE CARGA EN MÉXICO
-tags: Tutorial
+tags: Transportes
 date: 2019-10-17T21:14:06.320Z
 cover: /assets/images/yetcargo_logistica.png
 ---
