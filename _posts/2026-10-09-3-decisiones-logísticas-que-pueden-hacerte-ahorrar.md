@@ -8,7 +8,7 @@ author: yetcargo
 title: 3 decisiones logísticas que pueden hacerte ahorrar
 tags: TRANSPORTES MX
 date: '2026-10-09T12:28:44-06:00'
-cover: /assets/images/imagen-expandida-4-.png
+cover: /assets/images/imagen-expandida-6-.png
 ---
 El transporte de carga por carretera representó el **60.07% del mercado de carga y logística en México durante 2025,** de acuerdo con Mordor Intelligence. En un entorno marcado por el incremento de costos operativos y los retos de seguridad, tomar decisiones más eficientes sobre la cadena de suministro puede ser determinante para la competitividad de las empresas (Mordor Intelligence, 2026).
 
