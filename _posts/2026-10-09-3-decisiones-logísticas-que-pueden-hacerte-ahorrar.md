@@ -72,8 +72,6 @@ En **YETCARGO**, buscamos contribuir a que las empresas gestionen sus servicios 
 
 **Toma el control de tu operación y encuentra nuevas oportunidades **para hacer más eficiente tu cadena de suministro.
 
-
-
 > **Fuentes y referencias**
 >
 > Mordor Intelligence. (2026). Informe de crecimiento del mercado de carga y logística de México 2031.
@@ -93,5 +91,3 @@ En **YETCARGO**, buscamos contribuir a que las empresas gestionen sus servicios 
 > Las referencias a estudios, instituciones, publicaciones, empresas o marcas de terceros tienen como finalidad identificar las fuentes utilizadas y proporcionar contexto al lector; su inclusión no implica afiliación, patrocinio, respaldo, certificación o asociación comercial con YETCARGO, salvo que se indique expresamente.
 >
 > Las opiniones, interpretaciones y propuestas relacionadas con YETCARGO corresponden a la empresa y se distinguen de los datos provenientes de fuentes externas. Se recomienda consultar las publicaciones originales para conocer su metodología, alcance, fecha de actualización y contexto.
->
->
