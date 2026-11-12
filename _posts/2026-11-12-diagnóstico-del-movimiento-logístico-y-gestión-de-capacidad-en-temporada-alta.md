@@ -14,9 +14,7 @@ El Buen Fin 2026, programado del 13 al 17 de noviembre, representa la coyuntura 
 
 La dimensión del flujo logístico se comprende a partir del impacto macroeconómico de las ediciones recientes. En la edición previa de El Buen Fin, las ventas totales generaron $219,000 millones de pesos (+26.6% respecto al año anterior), con un canal digital (eCommerce) que aportó $45,900 millones de pesos (+31% interanual), alcanzando una penetración del 21% sobre las ventas totales con la participación de 216,000 comercios registrados. La demanda sobre la infraestructura de transporte es directa y severa, dado que el 71% de las compras requieren envío a domicilio, ejecutado en un 70% mediante flotillas dedicadas o contratadas por los propios comercios.   
 
-![](/assets/images/captura-de-pantalla-2026-11-12-a-la-s-10.15.43.png)
-
-  
+![null](/assets/images/captura-de-pantalla-2026-11-12-a-la-s-10.15.43.png)
 
 La capacidad logística no se improvisa en noviembre; se diseña con anticipación. En YETCARGO entendemos la dinámica de la temporada alta porque operamos año con año en el centro del movimiento logístico nacional. Si la operación de transporte de una empresa depende de un solo proveedor, de una flotilla propia al límite de su capacidad o de subastas de último minuto en el mercado spot, El Buen Fin puede convertirse en una carrera crítica contra el reloj. En YETCARGO, el acceso inmediato a una red de transportistas verificados, con disponibilidad real y trazabilidad en tiempo real, permite cubrir los picos de demanda en el momento que se requiere sin inversión en flota propia.   
 
@@ -36,7 +34,7 @@ El Buen Fin 2026 contempla un elemento crítico en su calendario: el lunes 16 de
 
 El costo de operar un tráiler en México oscila entre $44.00 y $50.00 pesos por kilómetro (sin incluir maniobras, estancias ni seguros). Los ajustes en casetas de cobro de CAPUFE de abril de 2026 reflejan alzas en tramos clave; por ejemplo, en la ruta de Ciudad de México a Monterrey, el peaje alcanza una tarifa de referencia de aproximadamente $4,120 pesos para unidades de 9 ejes. Estos incrementos en peajes, sumados a la volatilidad del mercado spot en temporada alta, colocan un sobreprecio considerable a los trayectos ineficientes o a los retornos en vacío.   
 
-![](/assets/images/captura-de-pantalla-2026-11-12-a-la-s-10.11.50.png)
+![null](/assets/images/captura-de-pantalla-2026-11-12-a-la-s-10.11.50.png)
 
 **Estrategias Operativas para Optimizar el Flujo de Carga**
 
@@ -54,7 +52,7 @@ Viajar con espacio subutilizado o realizar trayectos de retorno sin carga destru
 
 La dependencia de un único transportista o de una infraestructura fija no escala adecuadamente frente a incrementos del 50% al 150% en el volumen de pedidos. Integrar plataformas digitales como YETCARGO conecta de forma inmediata a los embarcadores con redes verificadas de transportistas. Esto facilita seleccionar la unidad idónea para cada trayecto, desde camionetas 3.5 hasta tráileres de 53 pies, adaptando el costo logístico a las necesidades reales del volumen sin asumir inversiones fijas ni contratos inflexibles.   
 
-![](/assets/images/captura-de-pantalla-2026-11-12-a-la-s-10.13.53.png)
+![](/assets/images/captura-de-pantalla-2026-11-12-a-la-s-11.24.51.png)
 
 **Contrataciones de Emergencia**
 
