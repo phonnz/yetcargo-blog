@@ -8,7 +8,7 @@ author: yetcargo
 title: Diagnóstico del Movimiento Logístico y Gestión de Capacidad en Temporada Alta
 tags: TRANSPORTES MX
 date: '2026-11-12T10:03:43-06:00'
-cover: /assets/images/imagen-expandida-8-.png
+cover: /assets/images/imagen-expandida-9-.png
 ---
 El Buen Fin 2026, programado del 13 al 17 de noviembre, representa la coyuntura operativa más intensa del año para la cadena de suministro en México. Durante este periodo de cinco días, el movimiento logístico experimenta un repunte masivo en la demanda de pedidos de entre un 50% y un 150%, lo que a su vez incrementa los retrasos en las entregas hasta en un 40% respecto a una semana operativa normal. Este fenómeno no responde a problemas circunstanciales de tráfico urbano o congestión vial imprevista: es un problema estructural de capacidad de autotransporte que se define y resuelve semanas antes de que inicien las promociones al consumidor.   
 
