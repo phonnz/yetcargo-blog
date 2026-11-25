@@ -10,7 +10,7 @@ title: >-
   compartido con la seguridad vial
 tags: TRANSPORTES MX
 date: '2026-11-25T16:17:09-06:00'
-cover: /assets/images/4-3-.png
+cover: /assets/images/imagen-daños-x-distracciones.png
 ---
 En el ecosistema del autotransporte de carga modalidad que concentró el 60.07% del mercado de fletes y logística en México durante 2025 según un informe de mercado de Mordor Intelligence la puntualidad, la continuidad operativa y la eficiencia financiera sostienen la competitividad de las cadenas de suministro. Sin embargo, ningún compromiso comercial ni ventana de entrega tiene mayor valor que la vida humana y la seguridad en las carreteras. A escala global, la Organización Mundial de la Salud estimó 1.19 millones de muertes por siniestros viales en 2021, de las cuales el 69% ocurrió en personas de entre 18 y 59 años, afectando directamente a la población en edad productiva (World Health Organization \[WHO], 2023). En la red carretera federal mexicana vigilada por la Guardia Nacional, el saldo acumulado en 2025 alcanzó 15,000 colisiones a lo largo de 50,000 kilómetros monitoreados, con 2,075 personas fallecidas en el sitio, 7,519 lesionadas y daños materiales por 2,858.8 millones de pesos (Instituto Mexicano del Transporte \[IMT] & Secretaría de Infraestructura, Comunicaciones y Transportes \[SICT], s. f.).
 
