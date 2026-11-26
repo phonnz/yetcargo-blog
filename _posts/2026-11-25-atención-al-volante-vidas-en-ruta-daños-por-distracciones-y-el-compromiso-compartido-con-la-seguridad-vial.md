@@ -158,4 +158,14 @@ _YETCARGO. (2026b, 12 de noviembre). Diagnóstico del movimiento logístico y ge
 
 **Nota de atribución y uso informativo**
 
-El presente artículo tiene fines exclusivamente informativos, educativos y de divulgación sobre seguridad vial y buenas prácticas en el sector de transporte de carga y logística.Las cifras, estadísticas, investigaciones y referencias normativas mencionadas provienen de fuentes públicas, institucionales y especializadas. Los datos, metodologías y alcances corresponden a sus respectivos autores y organismos emisores. Su inclusión tiene como finalidad contextualizar los temas abordados y no implica afiliación, patrocinio ni asociación comercial con YETCARGO.El contenido no constituye asesoría jurídica, técnica, operativa ni de seguridad, ni sustituye la consulta de las disposiciones legales y normativas vigentes o la orientación de profesionales especializados.Las recomendaciones expuestas son de carácter general y no representan una garantía de prevención de accidentes, cumplimiento normativo o resultados operativos específicos.Las referencias a la plataforma y los servicios de YETCARGO tienen fines descriptivos y no implican que la tecnología sustituya las obligaciones, responsabilidades o medidas de seguridad que corresponden a cada participante de la cadena logística.La aplicación de las disposiciones legales y normativas deberá evaluarse conforme a las características particulares de cada servicio y las obligaciones que correspondan a sus participantes.
+**El presente artículo tiene fines exclusivamente informativos, educativos y de divulgación sobre seguridad vial y buenas prácticas en el sector de transporte de carga y logística.**
+
+**Las cifras, estadísticas, investigaciones y referencias normativas mencionadas provienen de fuentes públicas, institucionales y especializadas. Los datos, metodologías y alcances corresponden a sus respectivos autores y organismos emisores. Su inclusión tiene como finalidad contextualizar los temas abordados y no implica afiliación, patrocinio ni asociación comercial con YETCARGO.**
+
+**El contenido no constituye asesoría jurídica, técnica, operativa ni de seguridad, ni sustituye la consulta de las disposiciones legales y normativas vigentes o la orientación de profesionales especializados.**
+
+**Las recomendaciones expuestas son de carácter general y no representan una garantía de prevención de accidentes, cumplimiento normativo o resultados operativos específicos.**
+
+**Las referencias a la plataforma y los servicios de YETCARGO tienen fines descriptivos y no implican que la tecnología sustituya las obligaciones, responsabilidades o medidas de seguridad que corresponden a cada participante de la cadena logística.**
+
+**La aplicación de las disposiciones legales y normativas deberá evaluarse conforme a las características particulares de cada servicio y las obligaciones que correspondan a sus participantes.**
